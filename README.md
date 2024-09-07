@@ -19,6 +19,44 @@ npx amit
 **👆 This command line tool can be found at [npx amit](https://github.com/incedo-amitkumar/npx_card)**
 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const amit = {
+    pronouns: "He" | "Him",
+    code: ["Apex","Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C067%20hrs%2011%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1202-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+
+
 
 - 👋 Hi, I’m Amit Kumar
 - 👀 I’m interested in ...
